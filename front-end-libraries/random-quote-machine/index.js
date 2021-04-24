@@ -1,4 +1,3 @@
-
 const styles = {
     wrapper: {
         width: '45%',
